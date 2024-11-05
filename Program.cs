@@ -1,12 +1,13 @@
-﻿using System;
+﻿namespace KafkaPrioritization;
 
-namespace dotnetcore
+using System;
+
+public class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        // TODO: Create consumers
+
+        // TODO: Create producer
     }
 }
